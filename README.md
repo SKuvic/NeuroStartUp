@@ -1,7 +1,9 @@
-# NeuroStartUp
-For Git hub learning purposes
+#Список клиентов 
+Мы на столько крутые, что уже успели поработать со следующими компаниями: 
 
-We do some test with that how things works here...
-STEP 1. CHANGE file
-STEP 2. <git status> command to confirm that git-bash the app is tracking my changes. It texts <modified>.
-STEP 3. <git add> now
+1. ООО «Рога и копыта» 
+1. Издательство «Читый лист» 
+1. Космопорт «Черезтерновый Кзвёздный» 
+1. Дизайн-студия имени Слишком Известного Персонажа 
+
+Нас можно найти в google.com.
